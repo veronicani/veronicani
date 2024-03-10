@@ -1,6 +1,13 @@
-# 👋 Hi! I'm Veronica 🦄 Designer & Software Engineer
+## 👋 Hi! I'm Veronica 🦄 Designer & Software Engineer
 
 I worked as an Art Director and designer in creative advertising, motion graphics, and indie mobile games for five years. After some time teaching abroad ✈️, I enrolled in [Rithm School](https://www.rithmschool.com/), and am now a product focused engineer, with experience on both sides of the development pipeline.
+
+### Let's connect! 
+* 📧 hello.veronicani@gmail.com
+* ![LinkedIn][LinkedIn] [linkedin.com/in/veronicani](https://www.linkedin.com/in/veronicani/)
+
+<!-- Social Media Shields -->
+[LinkedIn]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -48,36 +55,29 @@ I worked as an Art Director and designer in creative advertising, motion graphic
 
 
 ### Projects
-* 🏕️ [Sharebnb](https://github.com/veronicani/sharebnb-react/tree/main) - For the 500 sq.ft apartment dwellers
-* 👔 [Jobly](https://github.com/veronicani/sharebnb-react/tree/main) - For the hustlers
-* ☕️ [Flask Cafe](https://github.com/veronicani/sharebnb-react/tree/main) - For the coffee lovers
+* 🏕️ [Sharebnb](https://github.com/veronicani/sharebnb-react/tree/main) - For the 500 sq.ft apartment dwellers!
+* 👔 [Jobly](https://github.com/veronicani/sharebnb-react/tree/main) - For the hustlers!
+* ☕️ [Flask Cafe](https://github.com/veronicani/sharebnb-react/tree/main) - For the coffee lovers!
 
 ### And other fun facts:
 ```js
 class Veronica {
   constructor() {
+    this.pronouns: ['she', 'her', 'they', 'them'];
     this.hobbies: ['cycling 🚲', 'sci-fi books 🚀', 'killing plants 🪴', 'cooking 🥘'];
     this.isReading: ['NK Jemisin', 'Ann Leckie', 'Naomi Novik'];
     this.cities: ['NYC', 'Boston', 'Worcester', 'Guangzhou', 'Kanazawa'];
-    this.prevWork: ['taxidermied raccoons 🦝', 'burger 🍔 & bank 🏦 commercials', 'live-action shoots', 'drawing naked ppl']
+    this.prevWork: [
+      'taxidermied raccoons 🦝',
+      'national burger 🍔 & bank 🏦 commercials',
+      'indie games 👾',
+      'live-action shoots 🎬',
+      'giving talks ⚡️',
+      'drawing naked ppl 😳',
+      ]
   }
 
   dance() {
     console.log('♪⁽⁽٩( ᐖ )۶⁾⁾ | ₍₍٩( ᐛ )۶₎₎♪ | (งツ)ว | (~˘▾˘)~');
   }
 }
-```
-<!--
-**veronicani/veronicani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
