@@ -56,8 +56,8 @@ I worked as an Art Director and designer in creative advertising, motion graphic
 
 
 ### Projects
-* 🏕️ [Sharebnb](https://github.com/veronicani/sharebnb-react/tree/main) - For the 500 sq.ft apartment dwellers!
-* 👔 [Jobly](https://github.com/veronicani/sharebnb-react/tree/main) - For the hustlers!
+* 🏕️ [Sharebnb](https://github.com/veronicani/sharebnb-react) - For the 500 sq.ft apartment dwellers!
+* 👔 [Jobly](https://github.com/veronicani/react-jobly) - For the hustlers!
 * ☕️ [Flask Cafe](https://github.com/veronicani/flask-cafe) - For the coffee lovers!
 
 ### And other fun facts:
