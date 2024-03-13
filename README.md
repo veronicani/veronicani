@@ -1,6 +1,8 @@
 ## 👋 Hi! I'm Veronica 🦄 Designer & Software Engineer
 
-I worked as an Art Director and designer in creative advertising, motion graphics, and indie mobile games for five years. After some time teaching abroad ✈️, I enrolled in [Rithm School](https://www.rithmschool.com/), and am now a product focused engineer, with experience on both sides of the development pipeline.
+I'm a front-end focused software engineer, previous art director in creative advertising, motion graphics, and mobile games. I've designed for interactive digital platforms, web/television animation, and digital user experiences for national and independent brands, and worked with developers and creative technologists to bring those ideas to life. 
+
+To be able to build those experiences myself, I've completed an intensive fullstack software engineering program to combine my design expertise with a technical skillset. I'm here to address the gap between engineering and design needs during a product's development cycle, and contribute to products that scale effectively and excel in delivering rich user experiences.
 
 ### Let's connect! 
 * 📧 hello.veronicani@gmail.com
